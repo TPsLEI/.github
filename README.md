@@ -1,1 +1,1 @@
-# .github
+# Trabalhos Práticos - LEI
